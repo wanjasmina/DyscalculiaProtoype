@@ -1,5 +1,5 @@
 <h1> MathIsFun - Adaptive Learning App for Students with Dyscalculia </h1>
-MathIsFun is an adaptive mobile application designed to support students with dyscalculia in learning mathematics more effectively. This project focused on developing an Intelligent Module, which features an AI scanner to assist users when they struggle with solving problems.
+MathIsFun is an adaptive mobile application designed to support students with dyscalculia in learning mathematics more effectively. This project consists of 4 modules and mine is focused on developing an Intelligent Module, which features an AI scanner to assist users when they struggle with solving problems.
 <br />
 
 <h2>Project Overview</h2>
@@ -10,14 +10,8 @@ Before developing the prototype, we conducted a survey via Google Forms to gathe
 Our prototype was developed in compliance with Shneiderman's Eight Golden Rules of Interface Design, and a design evaluation confirmed that most respondents strongly agreed with its effectiveness.
 <br />
 
-<h2>Key Features & Advantages</h2>
-✅ Interactive UI – Encourages engagement and makes learning math enjoyable. <br />
-✅ Visual Learning Methods – Integrates images and alternative techniques beyond traditional calculations. <br />
-✅ Error Recoverability – Allows users to easily undo actions and correct mistakes.
-<br />
-
 <h2>Prototyping Tool Used</h2>
-🎨 JustInMind
+💻 JustInMind
 <br />
 
 <h2>Prototype Designs</h2>
