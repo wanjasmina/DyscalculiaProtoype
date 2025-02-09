@@ -13,7 +13,7 @@ Our prototype was developed in compliance with Shneiderman's Eight Golden Rules 
 <h2>Key Features & Advantages</h2>
 ✅ Interactive UI – Encourages engagement and makes learning math enjoyable. <br />
 ✅ Visual Learning Methods – Integrates images and alternative techniques beyond traditional calculations. <br />
-✅ Error Recoverability – Allows users to easily undo actions and correct mistakes. <br />
+✅ Error Recoverability – Allows users to easily undo actions and correct mistakes.
 <br />
 
 <h2>Prototyping Tool Used</h2>
